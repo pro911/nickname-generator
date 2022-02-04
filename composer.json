@@ -1,0 +1,29 @@
+{
+    "name": "pro911/nickname-generator",
+    "description": "This is a tool for generating nicknames",
+    "keywords": ["nickname", "generator", "nickname-generator"],
+    "homepage": "https://github.com/pro911/nickname-generator",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Generator\\": "src/Generator"
+        }
+    },
+    "authors": [
+        {
+            "name": "pro911",
+            "email": "pro911@qq.com",
+            "homepage": "https://github.com/pro911"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.3",
+        "ext-json": "*",
+        "ext-mbstring": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
