@@ -1,8 +1,8 @@
 <?php
 
-namespace Generator\Facades;
+namespace pro911\Generator\Facades;
 use Illuminate\Support\Facades\Facade;
-use Generator\Strategy\LaravelGenerator;
+use pro911\Generator\Strategy\LaravelGenerator;
 /**
  * Class GeneratorNickName
  *

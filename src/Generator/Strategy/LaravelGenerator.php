@@ -1,9 +1,9 @@
 <?php
 
-namespace Generator\Strategy;
+namespace pro911\Generator\Strategy;
 
-use Generator\Constants\Constants;
-use Generator\Interfaces\GeneratorInter;
+use pro911\Generator\Constants\Constants;
+use pro911\Generator\Interfaces\GeneratorInter;
 
 class LaravelGenerator implements GeneratorInter
 {

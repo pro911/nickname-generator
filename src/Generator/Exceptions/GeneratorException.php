@@ -1,6 +1,6 @@
 <?php
 
-namespace Generator\Exceptions;
+namespace pro911\Generator\Exceptions;
 
 class GeneratorException extends Exception
 {

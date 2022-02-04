@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Generator\Constants;
+namespace pro911\Generator\Constants;
 /**
  * @author pro911 <pro911@qq.com>
  * @desc 内容和参考: <https://github.com/pizepei/random-information>

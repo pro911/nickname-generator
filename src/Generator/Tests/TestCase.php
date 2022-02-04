@@ -1,10 +1,10 @@
 <?php
 
-namespace Generator\Tests;
+namespace pro911\Generator\Tests;
 
-use Generator\Facades\GeneratorNickName;
-use Generator\Generator;
-use Generator\Strategy\LaravelGenerator;
+use pro911\Generator\Facades\GeneratorNickName;
+use pro911\Generator\Generator;
+use pro911\Generator\Strategy\LaravelGenerator;
 
 class TestCase
 {

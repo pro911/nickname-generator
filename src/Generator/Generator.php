@@ -1,8 +1,8 @@
 <?php
 
-namespace Generator;
+namespace pro911\Generator;
 
-use Generator\Interfaces\GeneratorInter;
+use pro911\Generator\Interfaces\GeneratorInter;
 
 class Generator
 {

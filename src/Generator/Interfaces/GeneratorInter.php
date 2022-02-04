@@ -1,6 +1,6 @@
 <?php
 
-namespace Generator\Interfaces;
+namespace pro911\Generator\Interfaces;
 
 interface GeneratorInter
 {
